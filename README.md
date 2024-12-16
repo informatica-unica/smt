@@ -13,3 +13,8 @@ Finally, we will give a few exercises to experiment with the tool.
 
 Install z3 Python APIs through pip: 
 ```pip3 install z3-solver```
+
+
+## Content
+- [Sudoku](sudoku.py)
+- [Claw Machine (AoC 2024)](clawMachine.py)
