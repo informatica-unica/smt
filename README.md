@@ -25,3 +25,11 @@ Install z3 Python APIs through pip:
     - [Ex2 - Combinatorial](exercises/Ex2_Fruit.py)
     - [Ex3 - Deduction](exercises/Ex3_Pinna_case.py)
     - [Ex4 - Strategic](exercises/Ex4_River_crossing.py.py)
+
+## References
+
+- C. Barrett, R. Sebastiani, S. Seshia, C. Tinelli: [Satisfiability Modulo Theories](https://link.springer.com/chapter/10.1007/978-3-319-10575-8_11), 2018
+- A. Biere, D. Kröning:  [SAT-Based Model Checking](https://link.springer.com/chapter/10.1007/978-3-319-10575-8_10), 2018
+- A. Biere, M. Heule, H. Van Maaren, T. Walsh: [Handbook of Satisfiability](https://www.iospress.com/catalog/books/handbook-of-satisfiability-2), 2021
+- J. Aldrich: [Lecture Notes on Satisfiability Modulo Theories](https://www.cs.cmu.edu/~aldrich/courses/17-355-19sp/notes/notes12-smt.pdf), 2019
+- M. Fredrikson: [Lecture Notes on Bounded Model Checking](https://www.cs.cmu.edu/~15414/s22/lectures/17-bmc.pdf), 2022
