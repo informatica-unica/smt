@@ -67,7 +67,7 @@ def try_all_combinations(board):
 		for c in range(N):
 			if board[r][c] == 0:
 				empty_slots.append([r,c])
-	print(len(empty_slots))
+	print("Number of empty slots: ", len(empty_slots))
 	for combination in product(range(1, N+1), repeat=len(empty_slots)):
 		for i, empty_slot in enumerate(empty_slots):
 			slot_row = empty_slot[0]
